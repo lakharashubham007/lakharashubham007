@@ -8,7 +8,7 @@
  
 </div>
 
-- 👨‍💻 I am a passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
+- 👨‍💻 I am a passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native / Next.js and some other cool libraries and frameworks.
 
 <br>
 
